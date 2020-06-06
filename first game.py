@@ -1,3 +1,4 @@
+#A simple game designed using Turtle
 import turtle
 import winsound
 wn=turtle.Screen()
